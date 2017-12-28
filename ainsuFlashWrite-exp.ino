@@ -1,7 +1,10 @@
 /*
 
-  xx oo xx
-  GoodSoloFlashWrite.ino -- 28 December 2017
+  oo xx oo xx bb
+  ainsuFlashWrite-exp.ino -- 28 December 2017
+
+  old:
+  GoodSoloFlashWrite.ino  -- 28 December 2017
 
 
   Demonstrate how to use FlashStorage with an API that is similar to the EEPROM library.
