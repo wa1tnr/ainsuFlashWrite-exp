@@ -32,7 +32,7 @@ void setup() {
     while (!Serial) {
         blink_m();
     }
-    Serial.println("\r\n\r\n     GoodSoloFlashWrite.ino -- 28 December 2017\r\n");
+    Serial.println("\r\n\r\n     ainsuFlashWrite-exp.ino -- 28 December 2017\r\n");
     Serial.print("Prior to iteration, calling isValid() returns ");
     Serial.println(EEPROM.isValid());
 
