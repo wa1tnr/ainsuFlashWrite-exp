@@ -22,7 +22,7 @@
 #include <FlashAsEEPROM.h>
 
 void blink_m() {
-    blink_mn();
+    // blink_mn();
 }
 
 void setup() {

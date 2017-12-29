@@ -24,7 +24,7 @@ void npx_fixed() {
 
 void npx_repair() {
   setup_npx();
-  npx_fixed();
+  // npx_fixed();
 }
 
 void blink_mn() {
